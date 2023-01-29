@@ -1,7 +1,7 @@
 
 
 {
-   "name": "DARK-NA-Md",
+   "name": "MIDO-SD-Md",
    "version": "0.0.1",
    "description": "Multi device whatsapp bot.",
    "main": "index.js",
@@ -9,7 +9,7 @@
    "license": "GPL-3.0",
 "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name dark-na",
-    "stop": "pm2 stop dark-na"
+    "stop": "pm2 stop MIDO-SD"
     },
 "repository": {
 "type": "git",
@@ -18,8 +18,8 @@
 "keywords": [
 "whatsapp"
 ],
-"author": "Nilambara",
-"developer": "Nilambara",
+"author": "Mido",
+"developer": "Mido",
 "license": "GPL-3.0-or-later",
 "homepage": "https://github.com/",
 "dependencies": {
